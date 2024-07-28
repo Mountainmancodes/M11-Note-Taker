@@ -8,7 +8,7 @@ The Note Taker application allows users to write, save, and delete notes. It use
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [SourceCode](#source code)
+- [Source Code](#source-code)
 - [Demo](#demo)
 - [Example](#example)
 - [License](#license)
